@@ -10,6 +10,6 @@ For a specific example:
 
 ## Libraries
 - [x] [Boost](/boost) dpkg -s libboost-dev | grep 'Version'
-- [] [CGAL](/cgal) dpkg -s libcgal-dev | grep 'Version' + sudo apt-get install libcgal-dev
+- [x] [CGAL](/cgal)
 - [x] [Eigen](/eigen) 
 - [x] [OpenCV](/opencv)
